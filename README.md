@@ -2,6 +2,9 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=Fatma%20Nour&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Power%20BI&descAlignY=55&descAlign=50" width="100%" style="display:block; margin:0;" />
 
+<p align="center" style="margin:0; line-height:0;">
+ <img src="Gify.gif" alt="" style="display:block; margin:auto;">
+</p>
 
 ##  About Me:
 
