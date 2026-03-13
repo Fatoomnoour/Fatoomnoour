@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="Gify.gif" alt="">
-</p>
 
-
-<h2 align="center" style="font-size: 48px; font-weight: bold; margin: 0; border: none;">
-  <img src="https://media.tenor.com/krzD6aaNbKwAAAAi/cosytales-peek-a-boo.gif" width="56" style="vertical-align: middle; margin-bottom: -10px; border: none;">
-</h2>
-
-
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=Sara%20Eldamarany&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Power%20BI&descAlignY=55&descAlign=50" width="100%" style="display:block; margin:0;" />
 
 
 ##  About Me:
@@ -23,3 +16,10 @@ I thrive on collaborating with like-minded individuals, sharing knowledge, and c
 
 ---
 You can contact me via email at [fatmanour048@gmail.com](mailto:fatmanour048@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fatma-nour-ai-trainer/).
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
+<p align="center">
+  <img src="Gify.gif" alt="">
+</p>
+
