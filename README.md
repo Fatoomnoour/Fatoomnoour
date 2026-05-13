@@ -23,6 +23,6 @@ You can contact me via email at [fatmanour048@gmail.com](mailto:fatmanour048@gma
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" style="display:block; margin:0;" />
 <p align="center">
-  <img src="Gify.gif" alt="">
+
 </p>
 
