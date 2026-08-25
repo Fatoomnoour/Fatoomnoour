@@ -1,64 +1,51 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=150&section=header&text=Fatma%20Nour&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Technical%20Educator&descAlignY=55&descAlign=50" width="100%" style="display:block; margin:0;" />
+# Fatma Nour
 
-<!-- Typing Animation -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Reliable+Data+Pipelines;Transforming+Data+with+Spark+%26+dbt;Designing+Backend+APIs+with+Python;Empowering+Minds+Through+Tech+Education" alt="Typing SVG" />
-</h3>
+**Data Engineer | Python · SQL · Spark · Kafka · Airflow · dbt · BigQuery**
 
-I build practical data systems and backend applications using Python, SQL, and modern data engineering tools. My current focus is designing reliable data pipelines, processing streaming data, orchestrating workflows, and preparing analytics-ready data.
+I design reliable, testable data platforms that turn operational events into analytics-ready datasets and actionable insights. My work focuses on batch and streaming ETL/ELT, data quality, orchestration, dimensional modeling, and production-minded documentation.
 
-<br>
+## Focus Areas
 
-## 🛠️ What I Work On
+- End-to-end batch and streaming data pipelines
+- Apache Kafka and Spark Structured Streaming
+- Apache Airflow orchestration and recovery-aware workflows
+- dbt transformations, tests, documentation, and dimensional models
+- BigQuery, PostgreSQL, Parquet data lakes, and query optimization
+- Python data services, observability, and reproducible local environments
 
-- **End-to-end ETL/ELT data pipelines**
-- **Kafka and Spark Structured Streaming**
-- **BigQuery data warehousing and dbt transformations**
-- **Apache Airflow orchestration**
-- **Python and Flask backend APIs**
-- **Project-based programming education**
+## Featured Data Engineering Projects
 
-<br>
+| Project | What it demonstrates |
+| --- | --- |
+| [PharmStock AI Data Platform](https://github.com/Fatoomnoour/pharmstock-ai-data-platform) | Streaming pharmacy inventory platform with Kafka, PySpark, Airflow, dbt, MLflow, and Streamlit. |
+| [Pharmacy Stock Monitoring RAG](https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag) | End-to-end operational platform combining ingestion, data quality, forecasting, alerts, observability, and a grounded assistant. |
+| [Sales Analytics Query Optimization](https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization) | SQL performance analysis, query redesign, and analytics modeling. |
+| [Clinical Guidelines RAG](https://github.com/Fatoomnoour/clinical-guidelines-rag) | Evidence-grounded document retrieval with evaluation and page-level citations. |
+| [DataEngineer](https://github.com/Fatoomnoour/DataEngineer) | Practical Python and SQL exercises for data engineering foundations. |
 
-## 🚀 Featured Projects
+## Engineering Principles
 
-- 💊 **[PharmStock AI Data Platform](https://github.com/Fatoomnoour/pharmstock-ai-data-platform)** — A pharmacy inventory data platform using Python, Kafka, PySpark Structured Streaming, BigQuery, dbt, Airflow, Docker, and Streamlit.
-- 🩺 **[ABP Estimation API](https://github.com/Fatoomnoour/abp-api)** — A Flask API integrating a TensorFlow/Keras model for arterial blood pressure estimation from PPG and ECG signals.
-- 🧠 **[Stress Detection](https://github.com/Fatoomnoour/Stress-Detection)** — A Python and machine learning project for stress-level prediction.
+I prefer clear contracts over implicit assumptions, idempotent pipelines over fragile reruns, incremental processing over unnecessary full reloads, and tests that validate both data shape and business meaning. Every serious project should include an architecture diagram, reproducible setup, sample data, failure-handling notes, and evidence of validation.
 
-<br>
+## Technology Stack
 
-## 💻 Technical Stack
+**Languages:** Python, SQL, Java, Bash  
+**Data Engineering:** Apache Spark, PySpark, Kafka, Apache Airflow, dbt, BigQuery, PostgreSQL, Parquet  
+**Quality and Delivery:** pytest, Ruff, GitHub Actions, structured logging, data contracts  
+**Analytics and ML:** Pandas, NumPy, Streamlit, scikit-learn, XGBoost, MLflow, ChromaDB  
+**Cloud and Systems:** GCP fundamentals, Linux, REST APIs, Git
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,kafka,gcp,docker,git,linux" alt="Tech Stack" />
-</p>
+## Currently Building
 
-**Languages:** Python, SQL, Java  
-**Data Engineering:** Kafka, PySpark, Spark Structured Streaming, BigQuery, dbt, Apache Airflow  
-**Backend & Infrastructure:** Flask, REST APIs, Docker, Git, Linux  
-**Analytics & Machine Learning:** Streamlit, Pandas, NumPy, Scikit-Learn, XGBoost, MLflow
+**NYC Taxi Lakehouse** — a production-style, local-first batch analytics platform with incremental ingestion, bronze/silver/gold layers, dbt tests, orchestration, observability, and a documented performance baseline.
 
-<br>
+## Credentials and Education
 
-## 🎓 Education & Certification
+- Bachelor’s Degree in Computer Science, Faculty of Computers and Information, Minia University
+- [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/fatmaelzahraanoureldin-3362/credentials/579fe70f3b8825b1)
 
-- **Bachelor's Degree in Computer Science**, Faculty of Computers and Information, Minia University
-- 🏆 **[Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/fatmaelzahraanoureldin-3362/credentials/579fe70e3f8825b1?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
+## Connect
 
-<br>
+[LinkedIn](https://www.linkedin.com/in/fatma-nour-ai-trainer) · [Email](mailto:fatmanour048@gmail.com) · [GitHub](https://github.com/Fatoomnoour)
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatma-nour-ai-trainer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fatmanour048@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%" style="display:block; margin:0;" />
+> Open to Data Engineering opportunities, technical collaboration, and practical projects that improve data reliability and decision-making.
