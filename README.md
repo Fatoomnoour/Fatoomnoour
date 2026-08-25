@@ -1,51 +1,64 @@
-# Fatma Nour
+<div align="center">
 
-**Data Engineer | Python · SQL · Spark · Kafka · Airflow · dbt · BigQuery**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Fatma%20Nour&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Data%20Engineer%20%7C%20Technical%20Educator&descAlignY=56&descAlign=50" width="100%" alt="Fatma Nour profile banner" />
 
-I design reliable, testable data platforms that turn operational events into analytics-ready datasets and actionable insights. My work focuses on batch and streaming ETL/ELT, data quality, orchestration, dimensional modeling, and production-minded documentation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Building+reliable+data+pipelines;Working+with+Python%2C+SQL%2C+Spark+and+Kafka;Turning+raw+events+into+useful+analytics;Learning+by+building+real+projects" alt="Typing animation" />
 
-## Focus Areas
+</div>
 
-- End-to-end batch and streaming data pipelines
-- Apache Kafka and Spark Structured Streaming
-- Apache Airflow orchestration and recovery-aware workflows
-- dbt transformations, tests, documentation, and dimensional models
-- BigQuery, PostgreSQL, Parquet data lakes, and query optimization
-- Python data services, observability, and reproducible local environments
+## Hello, I’m Fatma
 
-## Featured Data Engineering Projects
+I build data pipelines and practical data products with Python and SQL. I enjoy working across the full path from ingestion and validation to transformation, orchestration, and analytics. I also work in technical education, where I turn complex ideas into hands-on learning experiences.
 
-| Project | What it demonstrates |
+My current focus is becoming stronger at production-style data engineering: reliable ingestion, incremental processing, data quality, observability, and clear documentation.
+
+## What I’m working with
+
+| Area | Tools |
 | --- | --- |
-| [PharmStock AI Data Platform](https://github.com/Fatoomnoour/pharmstock-ai-data-platform) | Streaming pharmacy inventory platform with Kafka, PySpark, Airflow, dbt, MLflow, and Streamlit. |
-| [Pharmacy Stock Monitoring RAG](https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag) | End-to-end operational platform combining ingestion, data quality, forecasting, alerts, observability, and a grounded assistant. |
-| [Sales Analytics Query Optimization](https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization) | SQL performance analysis, query redesign, and analytics modeling. |
-| [Clinical Guidelines RAG](https://github.com/Fatoomnoour/clinical-guidelines-rag) | Evidence-grounded document retrieval with evaluation and page-level citations. |
-| [DataEngineer](https://github.com/Fatoomnoour/DataEngineer) | Practical Python and SQL exercises for data engineering foundations. |
+| Data Engineering | Python, SQL, Apache Spark, PySpark, Kafka |
+| Orchestration and Transformation | Apache Airflow, dbt |
+| Warehouses and Storage | BigQuery, PostgreSQL, Parquet |
+| Quality and Delivery | pytest, Ruff, Docker, GitHub Actions |
+| Analytics and ML | Pandas, Streamlit, scikit-learn, XGBoost, MLflow |
 
-## Engineering Principles
+## Featured Work
 
-I prefer clear contracts over implicit assumptions, idempotent pipelines over fragile reruns, incremental processing over unnecessary full reloads, and tests that validate both data shape and business meaning. Every serious project should include an architecture diagram, reproducible setup, sample data, failure-handling notes, and evidence of validation.
+<div align="center">
 
-## Technology Stack
+<a href="https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=pharmacy-stock-monitoring-rag&theme=transparent&hide_border=true" alt="Pharmacy Stock Monitoring RAG" />
+</a>
+<a href="https://github.com/Fatoomnoour/pharmstock-ai-data-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=pharmstock-ai-data-platform&theme=transparent&hide_border=true" alt="PharmStock AI Data Platform" />
+</a>
 
-**Languages:** Python, SQL, Java, Bash  
-**Data Engineering:** Apache Spark, PySpark, Kafka, Apache Airflow, dbt, BigQuery, PostgreSQL, Parquet  
-**Quality and Delivery:** pytest, Ruff, GitHub Actions, structured logging, data contracts  
-**Analytics and ML:** Pandas, NumPy, Streamlit, scikit-learn, XGBoost, MLflow, ChromaDB  
-**Cloud and Systems:** GCP fundamentals, Linux, REST APIs, Git
+<a href="https://github.com/Fatoomnoour/nyc-taxi-lakehouse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=nyc-taxi-lakehouse&theme=transparent&hide_border=true" alt="NYC Taxi Lakehouse" />
+</a>
+<a href="https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=Sales-Analytics-Query-Optimization&theme=transparent&hide_border=true" alt="Sales Analytics Query Optimization" />
+</a>
 
-## Currently Building
+</div>
 
-**NYC Taxi Lakehouse** — a production-style, local-first batch analytics platform with incremental ingestion, bronze/silver/gold layers, dbt tests, orchestration, observability, and a documented performance baseline.
+## How I approach a data project
 
-## Credentials and Education
+I start with the data contract and the business question. Then I make the pipeline reproducible, separate raw data from curated models, add checks for both schema and business rules, and document the decisions that matter. A pipeline is not finished when it runs once; it should also be understandable, testable, and safe to rerun.
+
+## Education and Certification
 
 - Bachelor’s Degree in Computer Science, Faculty of Computers and Information, Minia University
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/fatmaelzahraanoureldin-3362/credentials/579fe70f3b8825b1)
 
-## Connect
+## Let’s connect
 
-[LinkedIn](https://www.linkedin.com/in/fatma-nour-ai-trainer) · [Email](mailto:fatmanour048@gmail.com) · [GitHub](https://github.com/Fatoomnoour)
+<div align="center">
 
-> Open to Data Engineering opportunities, technical collaboration, and practical projects that improve data reliability and decision-making.
+<a href="https://www.linkedin.com/in/fatma-nour-ai-trainer"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fatmanour048@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Fatoomnoour"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer" />
+
+</div>
