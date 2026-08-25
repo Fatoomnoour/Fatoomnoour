@@ -24,27 +24,26 @@ My current focus is becoming stronger at production-style data engineering: reli
 
 ## Featured Work
 
-<div align="center">
-
-<a href="https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=pharmacy-stock-monitoring-rag&theme=transparent&hide_border=true" alt="Pharmacy Stock Monitoring RAG" />
-</a>
-<a href="https://github.com/Fatoomnoour/pharmstock-ai-data-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=pharmstock-ai-data-platform&theme=transparent&hide_border=true" alt="PharmStock AI Data Platform" />
-</a>
-
-<a href="https://github.com/Fatoomnoour/nyc-taxi-lakehouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=nyc-taxi-lakehouse&theme=transparent&hide_border=true" alt="NYC Taxi Lakehouse" />
-</a>
-<a href="https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatoomnoour&repo=Sales-Analytics-Query-Optimization&theme=transparent&hide_border=true" alt="Sales Analytics Query Optimization" />
-</a>
-
-</div>
+| Project | Focus |
+| --- | --- |
+| [Pharmacy Stock Monitoring RAG](https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag) | Kafka events, validation, alerts, forecasting, and operational monitoring. [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag) |
+| [PharmStock AI Data Platform](https://github.com/Fatoomnoour/pharmstock-ai-data-platform) | Spark, Kafka, Airflow, dbt, MLflow, and Streamlit. [![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)](https://github.com/Fatoomnoour/pharmstock-ai-data-platform) |
+| [NYC Taxi Lakehouse](https://github.com/Fatoomnoour/nyc-taxi-lakehouse) | Bronze/Silver/Gold pipeline, quality checks, incremental loading, and backfills. [![Data](https://img.shields.io/badge/Data%20Engineering-2563EB?logo=apacheairflow&logoColor=white)](https://github.com/Fatoomnoour/nyc-taxi-lakehouse) |
+| [Sales Analytics Query Optimization](https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization) | SQL modeling and query performance work. [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization) |
 
 ## How I approach a data project
 
 I start with the data contract and the business question. Then I make the pipeline reproducible, separate raw data from curated models, add checks for both schema and business rules, and document the decisions that matter. A pipeline is not finished when it runs once; it should also be understandable, testable, and safe to rerun.
+
+## Soft Skills
+
+- Clear communication with technical and non-technical stakeholders
+- Breaking ambiguous business questions into practical data tasks
+- Ownership of work from planning and implementation to documentation
+- Troubleshooting calmly and working through failures systematically
+- Collaborative code reviews and constructive feedback
+- Technical mentoring and simplifying complex concepts for learners
+- Time management, prioritization, and consistent follow-through
 
 ## Education and Certification
 
