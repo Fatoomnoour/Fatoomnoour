@@ -16,7 +16,7 @@ My current focus is becoming stronger at production-style data engineering: reli
 
 | Area | Tools |
 | --- | --- |
-| Data Engineering | Python, SQL, Apache Spark, PySpark, Kafka |
+| Data Engineering | Python, SQL, Apache Spark, PySpark, Kafka, Microsoft Fabric |
 | Orchestration and Transformation | Apache Airflow, dbt |
 | Warehouses and Storage | BigQuery, PostgreSQL, Parquet |
 | Quality and Delivery | pytest, Ruff, Docker, GitHub Actions |
@@ -29,6 +29,7 @@ My current focus is becoming stronger at production-style data engineering: reli
 | [Pharmacy Stock Monitoring RAG](https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag) | Kafka events, validation, alerts, forecasting, and operational monitoring. [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Fatoomnoour/pharmacy-stock-monitoring-rag) |
 | [PharmStock AI Data Platform](https://github.com/Fatoomnoour/pharmstock-ai-data-platform) | Spark, Kafka, Airflow, dbt, MLflow, and Streamlit. [![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)](https://github.com/Fatoomnoour/pharmstock-ai-data-platform) |
 | [NYC Taxi Lakehouse](https://github.com/Fatoomnoour/nyc-taxi-lakehouse) | Bronze/Silver/Gold pipeline, quality checks, incremental loading, and backfills. [![Data](https://img.shields.io/badge/Data%20Engineering-2563EB?logo=apacheairflow&logoColor=white)](https://github.com/Fatoomnoour/nyc-taxi-lakehouse) |
+| [Fabric Retail Lakehouse](https://github.com/Fatoomnoour/fabric-retail-lakehouse) | OneLake-oriented medallion design, Spark notebooks, pipeline orchestration, SQL serving, and DP-700 preparation. [![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?logo=microsoft&logoColor=white)](https://github.com/Fatoomnoour/fabric-retail-lakehouse) |
 | [Sales Analytics Query Optimization](https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization) | SQL modeling and query performance work. [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://github.com/Fatoomnoour/Sales-Analytics-Query-Optimization) |
 
 ## How I approach a data project
@@ -49,6 +50,7 @@ I start with the data contract and the business question. Then I make the pipeli
 
 - Bachelor’s Degree in Computer Science, Faculty of Computers and Information, Minia University
 - [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/fatmaelzahraanoureldin-3362/credentials/579fe70f3b8825b1)
+- Microsoft Fabric Data Engineer Associate — **DP-700 Candidate / Certification in Progress**
 
 ## Let’s connect
 
